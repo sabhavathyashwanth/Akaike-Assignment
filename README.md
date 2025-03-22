@@ -1,5 +1,4 @@
-# News Summarization and 
-Text-to-Speech Application 
+# News Summarization and Text-to-Speech Application 
 
 The **Financial News Analyzer** is a web-based application that fetches and analyzes financial news for publicly traded companies. It provides **sentiment analysis, topic extraction, comparative analysis,** and **text-to-speech** features, including a **Hindi summary** with audio output. The project consists of a **Flask-based backend API** and a **Streamlit-based frontend**, deployed on **Hugging Face Spaces**.
 
