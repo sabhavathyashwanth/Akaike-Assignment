@@ -140,22 +140,9 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributing
-Feel free to **fork** this repo, create a new **branch**, and submit a **Pull Request**! 🚀
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 📬 Contact
 **Yashwanth Nayak**  
-📧 Email: yashwanth.nayak@example.com  
-🔗 LinkedIn: [linkedin.com/in/yashwanthnayak](https://linkedin.com/in/yashwanthnayak)  
+📧 Email: yashwanthsabhavath98.8@gmail.com  
 
 ---
-
-⭐ If you like this project, please **star** this repository on GitHub! ⭐
 
