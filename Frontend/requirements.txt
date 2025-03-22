@@ -1,0 +1,21 @@
+# Web framework
+streamlit==1.32.0
+flask==2.3.3
+gunicorn==21.2.0
+
+# Data handling
+pandas==2.2.0
+numpy==1.26.3
+
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# NLP tools
+spacy==3.7.2
+nltk==3.8.1
+sumy==0.11.0
+deep-translator==1.11.4
+
+# Speech synthesis
+gtts==2.4.0
